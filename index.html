@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mountain Climber Animation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="animationContainer">
+        <canvas id="climberCanvas"></canvas>
+    </div>
+    <div id="infoContainer"></div>
+    <div id="popupWindow" style="display: none;">
+        <div id="popupContent">
+            <span id="closeBtn">&times;</span>
+            <h2 id="popupTitle"></h2>
+            <ul id="activitiesList"></ul>
+            <p id="averageScore"></p>
+            <p id="minAvgScore"></p>
+            <p id="maxAvgScore"></p>
+            <!-- Highlighted recommended score -->
+            <p id="recommendedScore"></p>
+        </div>
+    </div>
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

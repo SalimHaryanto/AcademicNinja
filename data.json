@@ -1,0 +1,124 @@
+{
+  "subjects": [
+    {
+      "subject": "Pendidikan Agama & Budi Pekerti",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 85, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 90, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "Bahasa Indonesia",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 75, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 82, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "PPKN",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 60, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 75, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "PPKN",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 60, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 75, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "PPKN",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 60, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 75, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "PPKN",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 60, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 75, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "PPKN",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 60, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 75, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "PPKN",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 60, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 75, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "PPKN",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 60, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 75, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    },
+    {
+      "subject": "Pendidikan Agama & Budi Pekerti",
+      "activities": [
+        { "type": "Nilai Tugas", "score": 85, "weight": 0.2 },
+        { "type": "Penilaian Harian", "score": 90, "weight": 0.2 },
+        { "type": "Remedial Pertama", "score": 85, "weight": 0.2 },
+        { "type": "Penilai Tengah Semester", "score": 85, "weight": 0.2 },
+        { "type": "Praktik", "score": 90, "weight": 0.2 }
+      ],
+      "minAverageScore": 75,
+      "maxAverageScore": 100
+    }
+  ]
+}
